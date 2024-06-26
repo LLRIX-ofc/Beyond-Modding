@@ -1,0 +1,17 @@
+1. Download http debugger from https://www.httpdebugger.com/download.html
+2. Once you have fully downloaded and installed it, open it
+3. Open The Beyond Launcher (if you are singed in log out in the settings)
+4. Type random stuff into the email and password containters and press log in
+5. Go back to http debugger, find and double click the conection that starts with "http://backend.beyondfn.xyz:8990/loginLauncherAuth/"
+6. In the top middle press "auto reply"->"Add Rule"->"New Custom Rule"
+7. Then in the url container delete anything after "http://backend.beyondfn.xyz:8990/loginLauncherAuth/", and change the mode from "Exactly Matches" to "contains"
+8. Then delete everything in the header tab and go to the content tab
+9. In the content tab write "isdiamonddonator" and press save
+10. Then go ahead and log in with anything again and it should work
+11. Find and double click the conection that starts with "http://backend.beyondfn.xyz:8990/getUsernamebyemail"
+12. Then repeat steps 6,7,8,9 But write whatever you want your username to be instead of "isdiamonddonator"
+13. Then restart beyond and your name should be whatever you wrote
+14. Find and double click the conection that starts with "https://fortnite-api.com/images/cosmetics"
+15. Then repeat steps 6,7,8
+16. Then instead of writing anything in content press the 3 dots under "Reply with" in the bottom and select a png file (other file formats might work but they are really bad)
+17. And your done
